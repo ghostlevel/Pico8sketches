@@ -1,2 +1,2 @@
 # Pico8Sketches
-Tiny things/sketches made in Pico-8 in early 2016
+Tiny things/sketches made in Pico-8 early 2016
