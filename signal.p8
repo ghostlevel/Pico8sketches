@@ -2,8 +2,8 @@ pico-8 cartridge // http://www.pico-8.com
 version 15
 __lua__
   
-// 2016/03
-// by zproc / lotek.fr / ghostlevel.net
+-- 2016/03
+-- by zproc / lotek.fr / ghostlevel.net
 
 pi = 3.141592653589793
 t=0
